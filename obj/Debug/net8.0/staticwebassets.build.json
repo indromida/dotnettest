@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "5W+3tRolC6sBrTusKRdaa+PAzX094LuUBm1hhp3mJD8=",
+  "Source": "1",
+  "BasePath": "_content/1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "1\\wwwroot",
+      "Source": "1",
+      "ContentRoot": "C:\\Users\\Oussa\\Downloads\\1\\1\\wwwroot\\",
+      "BasePath": "_content/1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Oussa\\Downloads\\1\\1\\wwwroot\\index.html",
+      "SourceId": "1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Oussa\\Downloads\\1\\1\\wwwroot\\",
+      "BasePath": "_content/1",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4e942z9cha",
+      "Integrity": "dLl5xizQMWKv6bqWFxTG/EcWnZNOJyGr30aIHTdUcKU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.4e942z9cha.html",
+      "AssetFile": "C:\\Users\\Oussa\\Downloads\\1\\1\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "139"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dLl5xizQMWKv6bqWFxTG/EcWnZNOJyGr30aIHTdUcKU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 16:36:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4e942z9cha"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dLl5xizQMWKv6bqWFxTG/EcWnZNOJyGr30aIHTdUcKU="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Oussa\\Downloads\\1\\1\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "139"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dLl5xizQMWKv6bqWFxTG/EcWnZNOJyGr30aIHTdUcKU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 16:36:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dLl5xizQMWKv6bqWFxTG/EcWnZNOJyGr30aIHTdUcKU="
+        }
+      ]
+    }
+  ]
+}
